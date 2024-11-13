@@ -1,0 +1,31 @@
+aid: nannostomus
+name: Nannostomus
+description: >-
+  Search sex offenders by state and name using Nannostomus sex offender API.
+  645k+ records across all 50 states and territories. Free to check.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API
+created: '2024-11-13'
+modified: '2024-11-13'
+url: >-
+  https://raw.githubusercontent.com/api-search/nannostomus/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: nannostomus:nannostomus
+    name: Nannostomus
+    description: >-
+      Search sex offenders by state and name using Nannostomus sex offender API.
+      645k+ records across all 50 states and territories. Free to check.
+    humanURL: https://www.nannostomus.com/api/
+    tags:
+      - API
+    properties:
+      - type: Documentation
+        url: https://www.nannostomus.com/api/
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
