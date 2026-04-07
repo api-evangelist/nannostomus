@@ -10,8 +10,8 @@ created: '2024-11-13'
 modified: '2026-03-16'
 specificationVersion: '0.19'
 tags:
-  - Sex Offenders
   - Public Safety
+  - Sex Offenders
 apis:
   - aid: nannostomus:nannostomus
     name: Nannostomus
