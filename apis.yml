@@ -39,6 +39,8 @@ apis:
       Records are updated monthly with per-state change reporting and
       deduplicated within each state.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/intsurfing
   - url: https://www.nannostomus.com/
     type: Website
   - url: https://www.nannostomus.com/api/
