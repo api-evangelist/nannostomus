@@ -25,7 +25,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nannostomu
 url: https://raw.githubusercontent.com/api-evangelist/nannostomus/refs/heads/main/apis.yml
 created: '2024-11-13'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Public Safety
   - Sex Offenders
